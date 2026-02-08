@@ -2,7 +2,7 @@
 
 Threat model and security program data for [OpenClaw](https://github.com/openclaw/openclaw).
 
-Rendered at [trust.openclaw.ai/threatmodel](https://trust.openclaw.ai/threatmodel).
+Rendered at [trust.openclaw.ai/trust/threatmodel](https://trust.openclaw.ai/trust/threatmodel).
 
 ## Files
 
